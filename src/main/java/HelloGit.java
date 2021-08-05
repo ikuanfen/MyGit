@@ -1,0 +1,9 @@
+/**
+ * @author sunxingyu
+ * @create 2021-08-05 10:35
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("1111111111111111");
+    }
+}
