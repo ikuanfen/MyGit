@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("hot-fix   修改提交");
 
         System.out.println("向GitHub  Push   修改提交");
+        System.out.println("拉去代码吧");
     }
 }
