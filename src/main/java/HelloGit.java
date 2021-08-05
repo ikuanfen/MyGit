@@ -8,5 +8,7 @@ public class HelloGit {
         System.out.println("第二次提交");
         System.out.println("第三次提交");
         System.out.println("hot-fix   修改提交");
+
+        System.out.println("向GitHub  Push   修改提交");
     }
 }
